@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="32" height="32">
+  <path fill="#009688" d="M4,24C4,12.956,12.956,4,24,4s20,8.956,20,20s-8.956,20-20,20S4,35.044,4,24z" />
+  <polygon fill="#fff" points="27,13 27,18 12,18 12,22 36,22" />
+  <polygon fill="#fff" points="21,35 21,30 36,30 36,26 12,26" />
+</svg>
